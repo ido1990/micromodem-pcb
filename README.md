@@ -2,7 +2,7 @@
 
 PCB and schematics for a very basic [MicroModem](https://unsigned.io/micromodem/) shield for Arduino Nano to use with Baofeng radios.
 
-![LY2EN-micromodem](LY2EN-micromodem.png)
+![LY2EN-micromodem-render](LY2EN-micromodem-render.png)
 
 ## Disclaimer
 
@@ -40,6 +40,10 @@ The Baofeng cable has two TRS (Tip, Ring, Sleeve) connectors.
 #### 2.5mm
 * Sleeve - GND
 * Tip - IN
+
+### Case
+3D printed sleeve case by 4X5MG
+![LY2EN-micromodem](LY2EN-micromodem.png)
 
 ## Features / Changelog
 
