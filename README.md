@@ -41,7 +41,7 @@ The Baofeng cable has two TRS (Tip, Ring, Sleeve) connectors.
 
 ### Case
 3D printed sleeve case by 4X5MG
-![LY2EN-micromodem](LY2EN-micromodem.png)
+![4X5MG-Case](4X5MG-Case.jpg)
 
 ## Features / Changelog
 
