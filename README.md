@@ -22,8 +22,6 @@ This is experimental work. The authors do not hold any responsibility for any da
     
     3.2 Keep the baud rate at 9600.
     
-4. Set the 3296W trimmer to something around 47kOhm. Your resistance might vary here. Once you're confident, you can replace it with a simple 47k resistor.
-
 Verified working with both the MicroAPRS KISS and MicroAPRS SimpleSerial firmware for 3V.
 
 ## Cables
